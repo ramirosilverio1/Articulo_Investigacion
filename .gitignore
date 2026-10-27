@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Bibliotecas locales de renv
+renv/library/
+renv/staging/
+renv/cellar/
+
+# Archivos temporales de Quarto
+.quarto/
+_freeze/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
