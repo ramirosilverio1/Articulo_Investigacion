@@ -21,5 +21,6 @@ format:
   pdf:
     documentclass: scrreprt
 
-editor: visual
+docx:
+    reference-doc: plantilla.docx.docx
 

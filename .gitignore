@@ -15,3 +15,6 @@ _freeze/
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
